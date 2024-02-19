@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Related Button Enabler",
+  "version": "1.0",
+  "description": "Automatically enables the 'Related' button on YouTube.",
+  "permissions": [
+    "activeTab",
+    "webNavigation"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["defaultrelated.js"]
+    }
+  ]
+}
