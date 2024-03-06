@@ -2,13 +2,6 @@
 
 An extension for Chromium based browsers (Brave, Edge, Chrome, Opera, Vilvadi, ...) that automatically enables/clicks the "Related" button in the Reccomended Videos when watching a YouTube video.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Bugs](#bugs)
-- [License](#license)
-
 ## Installation
 
 Clone the repository to a local folder.
