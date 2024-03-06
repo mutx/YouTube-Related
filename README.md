@@ -1,6 +1,6 @@
-# YouTube Related Videos Enabler
+# YouTube Related
 
-An extension for Chromium based browsers (Brave, Edge, Chrome, Opera, Vilvadi, ...) that automatically enables/clicks the "Related" button in the Reccomended Videos when watching a YouTube video.
+An extension for Chromium based browsers (Brave, Edge, Chrome, Opera, Vilvadi, ...) that automatically enables/clicks the "Related" button in the recommended videos when watching a YouTube video. YouTube's default for recommended videos is to show you content that you've already seen, or unrelated videos that are trending.
 
 ## Installation
 
